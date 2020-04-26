@@ -1,9 +1,2 @@
 Hello world!!
-Ù≥‚‡Ù≥ ≥Ù‚‡  Ù≥‚‡≥Ù‚ ‡≥Ù‡
-√Û‰ ·‡È
-Ù‚‡≥‚‡
-
-
-Ù≥‚‡≥‚‡‚≥‡
-
-Line from user2
+Good evening (from master)
