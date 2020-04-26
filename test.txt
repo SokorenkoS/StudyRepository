@@ -1,2 +1,2 @@
 Hello world!!
-Good evening (from master)
+Line from user 1 - lesson about rebase
