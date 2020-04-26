@@ -1,14 +1,2 @@
 Hello world!!
-<<<<<<< HEAD
-20200425....
 Good evening (from master)
-=======
-ô³âàô³ ³ôâà  ô³âà³ôâ à³ôà
-Ãóä áàé
-ôâà³âà
-
-
-ô³âà³âàâ³à
-
-Line from user2
->>>>>>> b03b05e35ca1d9f1a1f44039ad37800320fc5f4c
